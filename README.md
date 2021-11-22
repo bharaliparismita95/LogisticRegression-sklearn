@@ -1,2 +1,2 @@
 # LogisticRegression-sklearn
-Implementation of Logistic Regression with sklearn
+Simple implementation of Logistic Regression with sklearn.
